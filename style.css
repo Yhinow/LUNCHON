@@ -1,0 +1,33 @@
+body {
+background-color: antiquewhite;
+}
+
+#main{
+color: rgb(0, 0, 0);
+font-family: Verdana, arial;
+text-align: center;
+border-style: inset;
+border-width: 3px;
+border-color: black;
+border-radius: 20px;
+}
+h2{
+    font-family: Verdana, arial;
+    text-align: center; 
+    tex;
+    text-decoration: wavy;
+
+}
+#MISSION {
+    color: rgb(0, 0, 0);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#VISION {
+    color: rgb(0, 0, 0);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+}
